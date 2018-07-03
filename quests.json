@@ -1,0 +1,532 @@
+{"quests":{
+	"games":{
+		"cvc":{
+			"daily":{
+				"cvc_win_daily_normal":{
+					"name":"Win a game! (Defusal)",
+					"xpGain":3500
+				},
+				"cvc_kill_daily_normal":{
+					"name":"Kill 15 players! (Defusal)",
+					"xpGain":3500
+				},
+				"cvc_kill":{
+					"name":"Get 300 points! (Deathmatch)",
+					"xpGain":3500
+				},
+				"cvc_win_daily_deathmatch":{
+					"name":"Win a game! (Deathmatch)",
+					"xpGain":3500
+				}
+			},
+			"weekly":{
+				"cvc_kill_weekly":{
+					"name":"100 kills and 1500 points",
+					"xpGain":19500
+				}
+			}},
+		"blitz":{
+			"daily":{
+				"blitz_game_of_the_day":{
+					"name":"Game of the Day",
+					"xpGain":3250
+				},
+				"blitz_win":{
+					"name":"Win",
+					"xpGain":3250
+				},
+				"blitz_kills":{
+					"name":"Kills",
+					"xpGain":3250
+				}
+			},
+			"weekly":{
+				"blitz_weekly_master":{
+					"name":"Blitz Master",
+					"xpGain":21000
+				}
+			}},
+		"walls":{
+			"daily":{
+				"walls_daily_play":{
+					"name":"Waller",
+					"xpGain":3500
+				},
+				"walls_daily_kill":{
+					"name":"Kills",
+					"xpGain":3500
+				},
+				"walls_daily_win":{
+					"name":"Win",
+					"xpGain":3500
+				}
+			},
+			"weekly":{
+				"walls_weekly":{
+					"name":"Walls Weekly",
+					"xpGain":21000
+				}
+			}},
+		"paintball":{
+			"daily":{
+				"paintballer":{
+					"name":"Paintballer",
+					"xpGain":3500
+				},
+				"paintball_killer":{
+					"name":"Paintball Killer",
+					"xpGain":2500
+				}
+			},
+			"weekly":{
+				"paintball_expert":{
+					"name":"Paintball Expert",
+					"xpGain":21000
+				}
+			}},
+		"vampirez":{
+			"daily":{
+				"vampirez_daily_play":{
+					"name":"VampireZ",
+					"xpGain":3000
+				},
+				"vampirez_daily_kill":{
+					"name":"Blood Drinker",
+					"xpGain":3000
+				},
+				"vampirez_daily_win":{
+					"name":"VampireZ Daily Win",
+					"xpGain":3000
+				}
+			},
+			"weekly":{
+				"vampirez_weekly_win":{
+					"name":"Vampire Winner",
+					"xpGain":10500
+				},
+				"vampirez_weekly_kill":{
+					"name":"Vampire Slayer",
+					"xpGain":9000
+				}
+			}},
+		"arcade":{
+			"daily":{
+				"arcade_gamer":{
+					"name":"Arcade Gamer",
+					"xpGain":3250
+				},
+				"arcade_winner":{
+					"name":"Arcagde Winner",
+					"xpGain":3250
+				}
+			},
+			"weekly":{
+				"arcade_specialist":{
+					"name":"Arcade Specialist",
+					"xpGain":19500
+				}
+			}},
+		"quakecraft":{
+			"daily":{
+				"quake_daily_play":{
+					"name":"Quake Player",
+					"xpGain":3000
+				},
+				"quake_daily_kill":{
+					"name":"Sniper",
+					"xpGain":3000
+				},
+				"quake_daily_win":{
+					"name":"Winner",
+					"xpGain":3000
+				}
+			},
+			"weekly":{
+				"quake_weekly_play":{
+					"name":"Bazinga!",
+					"xpGain":18000
+				}
+			}},
+		"megawalls":{
+			"daily":{
+				"mega_walls_play":{
+					"name":"Game of the Day",
+					"xpGain":3500
+				},
+				"mega_walls_win":{
+					"name":"Win",
+					"xpGain":3500
+				},
+				"mega_walls_kill":{
+					"name":"Kills",
+					"xpGain":3500
+				},
+				"mega_walls_faithful":{
+					"name":"Mythic Quest: Faithful",
+					"xpGain":5000
+				}
+			},
+			"weekly":{
+				"mega_walls_weekly":{
+					"name":"Mega Waller",
+					"xpGain":21000
+				}
+			}},
+		"tnt":{
+			"daily":{
+				"tnt_wizards_daily":{
+					"name":"TNT Wizards",
+					"xpGain":4200
+				},
+				"tnt_tntrun_daily":{
+					"name":"TNT Run",
+					"xpGain":1800
+				},
+				"tnt_tnttag_daily":{
+					"name":"TNT Tag",
+					"xpGain":1800
+				},
+				"tnt_bowspleef_daily":{
+					"name":"Bow Spleef",
+					"xpGain":1800
+				},
+				"tnt_pvprun_daily":{
+					"name":"PVP Run",
+					"xpGain":1800
+				}
+			},
+			"weekly":{
+				"tnt_wizards_weekly":{
+					"name":"TNT Wizards",
+					"xpGain":7000
+				},
+				"tnt_tntrun_weekly":{
+					"name":"TNT Run",
+					"xpGain":6000
+				},
+				"tnt_tnttag_weekly":{
+					"name":"TNT Tag",
+					"xpGain":6000
+				},
+				"tnt_bowspleef_weekly":{
+					"name":"Bow Spleef",
+					"xpGain":6000
+				},
+				"tnt_pvprun_weekly":{
+					"name":"PVP Run",
+					"xpGain":6000
+				}
+			}},
+		"arena":{
+			"daily":{
+				"arena_daily_play":{
+					"name":"Player Arena",
+					"xpGain":3250
+				},
+				"arena_daily_kills":{
+					"name":"Arena Kills",
+					"xpGain":3250
+				},
+				"arena_daily_wins":{
+					"name":"Arena Win",
+					"xpGain":3250
+				}
+			},
+			"weekly":{
+				"arena_weekly_play":{
+					"name":"Play Arena",
+					"xpGain":21000
+				}
+			}},
+		"crazywalls":{
+			"daily":{
+				"crazy_walls_daily_play":{
+					"name":"Crazy Games",
+					"xpGain":3250
+				},
+				"crazy_walls_daily_kill":{
+					"name":"Kills",
+					"xpGain":3250
+				},
+				"crazy_walls_daily_win":{
+					"name":"Win",
+					"xpGain":3250
+				}
+
+			},
+			"weekly":{
+				"crazy_walls_weekly":{
+					"name":"Crazy Walls Weekly",
+					"xpGain":21000
+				}
+			}},
+		"uhc":{
+			"daily":{
+				"uhc_team":{
+					"name":"Team UHC Champions",
+					"xpGain":3500
+				},
+				"uhc_solo":{
+					"name":"Solo UHC Champions",
+					"xpGain":3500
+				},
+				"uhc_dm":{
+					"name":"UHC Deatmatch",
+					"xpGain":3500
+				}
+			},
+			"weekly":{
+				"uhc_weekly":{
+					"name":"UHC Champions",
+					"xpGain":21000
+				}
+			}},
+		"warlords":{
+			"daily":{
+				"warlords_ctf":{
+					"name":"Capture the Flag",
+					"xpGain":4200
+				},
+				"warlords_win":{
+					"name":"Warlords",
+					"xpGain":4200
+				},
+				"warlords_tdm":{
+					"name":"Team Deatmatch",
+					"xpGain":4200
+				},
+				"warlords_domination":{
+					"name":"Domination",
+					"xpGain":4200
+				}
+			},
+			"weekly":{
+				"warlords_dedication":{
+					"name":"Dedication",
+					"xpGain":24000
+				}
+			}},
+		"skywars":{
+			"daily":{
+				"skywars_solo_win":{
+					"name":"Skywars Solo Win",
+					"xpGain":3000
+				},
+				"skywars_solo_kills":{
+					"name":"Skywars Solo Kills",
+					"xpGain":3000
+				},
+				"skywars_team_win":{
+					"name":"Skywars Doubles Win",
+					"xpGain":3000
+				},
+				"skywars_team_kills":{
+					"name":"Skywars Doubles Kills",
+					"xpGain":3000
+				},
+				"skywars_arcade_win":{
+					"name":"Skywars Lab Win",
+					"xpGain":3000
+				}
+			},
+			"weekly":{
+				"skywars_weekly_kills":{
+					"name":"Skywars Weekly Kills",
+					"xpGain":18000
+				},
+				"skywars_weekly_arcade_win_all":{
+					"name":"Skywars Scientist",
+					"xpGain":10000
+				},
+				"skywars_mega_doubles_wins":{
+					"name":"Skywars Mega Doubles Wins",
+					"xpGain":18000
+				}
+			}},
+		"tkr":{
+			"daily":{
+				"gingerbread_bling_bling":{
+					"name":"Bling Bling",
+					"xpGain":4200
+				},
+				"gingerbread_maps":{
+					"name":"International Championship",
+					"xpGain":4200
+				},
+				"gingerbread_racer":{
+					"name":"Racer",
+					"xpGain":4200
+				}
+			},
+			"weekly":{
+				"gingerbread_mastery":{
+					"name":"Turbo Kart Racers",
+					"xpGain":24000
+				}
+			}},
+		"smashheroes":{
+			"daily":{
+				"supersmash_solo_win":{
+					"name":"Smash Heroes Solo Win",
+					"xpGain":3000
+				},
+				"supersmash_solo_kills":{
+					"name":"Smash Heroes Solo Kills",
+					"xpGain":3000
+				},
+				"supersmash_team_win":{
+					"name":" Smash Heroes Team Win",
+					"xpGain":3000
+				},
+				"supersmash_team_kills":{
+					"name":"Smash Heroes Team Kills",
+					"xpGain":3000
+				}
+			},
+			"weekly":{
+				"supersmash_weekly_kills":{
+					"name":"Smash Heroes Weekly Kills",
+					"xpGain":18000
+				}
+			}},
+		"speeduhc":{
+			"daily":{
+				"normal_brawler":{
+					"name":"Normal Brawler",
+					"xpGain":3000
+				},
+				"insane_brawler":{
+					"name":"Insane Brawler",
+					"xpGain":3000
+				},
+				"hunting_season":{
+					"name":"Hunting Season",
+					"xpGain":3000
+				},
+				"uhc_addict":{
+					"name":"UHC Addict",
+					"xpGain":3000
+				}
+			},
+			"weekly":{
+				"uhc_madness":{
+					"name":"UHC Madness",
+					"xpGain":19500
+				}
+			}},
+		"skyclash":{
+			"daily":{
+				"skyclash_play_games":{
+					"name":"Skyclash Playtime",
+					"xpGain":3000
+				},
+				"skyclash_kills":{
+					"name":"Skyclash Kills",
+					"xpGain":3000
+				},
+				"skyclash_play_points":{
+					"name":"Skyclash Play Points",
+					"xpGain":3000
+				},
+				"skyclash_void":{
+					"name":"Skyclash Void",
+					"xpGain":3000
+				}
+			},
+			"weekly":{
+				"skyclash_weekly_kills":{
+					"name":"Skyclash Weekly Kills",
+					"xpGain":19500
+				}
+			}},
+		"bedwars":{
+			"daily":{
+				"bedwars_daily_win":{
+					"name":"First Win of the Day",
+					"xpGain":3500
+				},
+				"bedwars_daily_one_more":{
+					"name":"One More Game!",
+					"xpGain":3500
+				}
+			},
+			"weekly":{
+				"bedwars_weekly_bed_elims":{
+					"name":"Bed Removal Co.",
+					"xpGain":7000
+				},
+				"bedwars_weekly_dream_win":{
+					"name":"Sleep Tight",
+					"xpGain":7000
+				}
+			}},
+		"mm":{
+			"daily":{
+				"mm_daily_win":{
+					"name":"Winner",
+					"xpGain":3000
+				},
+				"mm_daily_power_play":{
+					"name":"Power Play",
+					"xpGain":3000
+				},
+				"mm_daily_target_kill":{
+					"name":"Hitman",
+					"xpGain":1800
+				}
+			},
+			"weekly":{
+				"mm_weekly_murderer_kills":{
+					"name":"Professional",
+					"xpGain":12000
+				},
+				"mm_weekly_wins":{
+					"name":"Big Winner",
+					"xpGain":12000
+				}
+			}},
+		"buildbattle":{
+			"daily":{
+				"build_battle_player":{
+					"name":"Build Battle Player",
+					"xpGain":3500
+				},
+				"build_battle_winner":{
+					"name":"Build Battle Winner",
+					"xpGain":3500
+				}
+			},
+			"weekly":{
+				"build_battle_weekly":{
+					"name":"Master Architect",
+					"xpGain":21000
+				}
+			}},
+		"duels":{
+			"daily":{
+				"duels_player":{
+					"name":"Duels Player",
+					"xpGain":3000
+				},
+				"duels_killer":{
+					"name":"Duels Killer",
+					"xpGain":3000
+				},
+				"duels_winner":{
+					"name":"Duels Winner",
+					"xpGain":3000
+				}
+			},
+			"weekly":{
+				"duels_weekly_kills":{
+					"name":"Duels Weekly Kills",
+					"xpGain":18000
+				},
+				"duels_weekly_wins":{
+					"name":"Duels Weekly Wins",
+					"xpGain":18000
+				}
+			}}
+		}
+	}
+}
